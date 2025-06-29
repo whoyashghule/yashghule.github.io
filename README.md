@@ -37,14 +37,14 @@ I am a passionate Power BI Developer focused on transforming complex datasets in
 ## 🌐 Live Website
 
 You can view the live portfolio at:  
-**[https://yourusername.github.io/portfolio/](https://yashghule.github.io/portfolio/)**  
+https://yashghule.github.io/portfolio/
 
 
 ## 📫 Contact Me
 
 - 📧 Email: get.yashghule@gmail.com  
 - 📞 Phone: +91 9960927364  
-- 🔗 GitHub: [https://me.github.io](https://me.github.io)
+- 🔗 GitHub: (https://github.com/whoyashghule)
 
 ---
 
